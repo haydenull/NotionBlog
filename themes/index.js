@@ -8,6 +8,7 @@ import * as medium from './medium'
 import * as nobelium from './nobelium'
 import * as matery from './matery'
 import * as example from './example'
+import * as gungnir from './gungnir'
 
-export const ALL_THEME = ['hexo', 'matery', 'next', 'medium', 'fukasawa', 'nobelium', 'example']
-export { hexo, next, medium, fukasawa, nobelium, matery, example }
+export const ALL_THEME = ['hexo', 'matery', 'next', 'medium', 'fukasawa', 'nobelium', 'example', 'gungnir']
+export { hexo, next, medium, fukasawa, nobelium, matery, example, gungnir }
